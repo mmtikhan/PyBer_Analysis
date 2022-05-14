@@ -14,7 +14,7 @@ Using Jupiter and additional libraries requires additional education which takes
 
 ## Results
 The analysis resulted in table presented bellow
-
+![](Resources/sum1.PNG)
 According this statistic we can conclude:
 - Urban cities have the highest demand in drivers and rides and, as result have the highest total fires ($39,854.38)
 - Because of high demand urban cities have the highest number of drivers (1625)
